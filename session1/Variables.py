@@ -22,3 +22,6 @@ print(type(y))
 print(type(z))
 
 
+# Case sensitive x and X are different in python.
+
+
